@@ -11,7 +11,7 @@ public class Principal {
         alumnoUno.setNombre("alumno1");
         alumnoUno.setApellidoPaterno("apellido1");
         alumnoUno.setCelular(new Celular());
-        alumnoUno.setNumeroCuenta("322260575");
+        alumnoUno.setNumeroCuenta("XXXXXXX");
 
         System.out.println(alumnoUno.toString());
 
